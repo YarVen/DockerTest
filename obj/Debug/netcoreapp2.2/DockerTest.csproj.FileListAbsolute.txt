@@ -1,6 +1,3 @@
-C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csproj.CoreCompileInputs.cache
-C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.AssemblyInfoInputs.cache
-C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.AssemblyInfo.cs
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.deps.json
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.runtimeconfig.json
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.runtimeconfig.dev.json
@@ -8,8 +5,12 @@ C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\Doc
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.pdb
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.Views.dll
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.Views.pdb
+C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csprojAssemblyReference.cache
+C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csproj.CoreCompileInputs.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.RazorAssemblyInfo.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.RazorAssemblyInfo.cs
+C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.AssemblyInfoInputs.cache
+C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.AssemblyInfo.cs
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.TagHelpers.input.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.TagHelpers.output.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.RazorCoreGenerate.cache
@@ -27,4 +28,3 @@ C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\Doc
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.dll
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.pdb
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csproj.CopyComplete
-C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csprojAssemblyReference.cache

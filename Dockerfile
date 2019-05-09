@@ -9,12 +9,12 @@ COPY *.csproj ./
 RUN dotnet restore
 COPY . ./
 WORKDIR "/src/DockerTest"
-RUN dotnet build *.csproj -c Release -o /app
+RUN dotnet build "DockerTest.csproj" -c Release -o /app
 
 FROM build AS publish
 RUN dotnet publish *.csproj -c Release -o /app
 
 FROM base AS final
-WORKDIR /app
+WORKDIR /app	
 COPY --from=build-env /app/out .
 ENTRYPOINT ["dotnet", "DockerTest.dll"]

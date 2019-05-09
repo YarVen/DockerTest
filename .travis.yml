@@ -6,3 +6,16 @@ dotnet: 2.2
 script:
     - dotnet restore
     - dotnet build
+
+deploy:
+  provider: elasticbeanstalk
+  region: "us-east-2"
+  app: "DockerTest" 
+  env: "Dockertest-env"
+  bucket_name: "elasticbeanstalk-us-east-2-184596941614"
+  bucket_path: "DockerTest"
+  on:
+    branch: master
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key:
+    secure: "$AWS_SECRET_KEY"

@@ -9,10 +9,10 @@ COPY *.csproj ./
 RUN dotnet restore
 COPY . ./
 WORKDIR "/src/DockerTest"
-RUN dotnet build "DockerTest.csproj" -c Release -o /app
+RUN dotnet build -c Release -o /app
 
 FROM build AS publish
-RUN dotnet publish *.csproj -c Release -o /app
+RUN dotnet publish -c Release -o /app
 
 FROM base AS final
 WORKDIR /app	

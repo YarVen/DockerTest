@@ -27,3 +27,4 @@ C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\Doc
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.dll
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.pdb
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csproj.CopyComplete
+C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csprojAssemblyReference.cache

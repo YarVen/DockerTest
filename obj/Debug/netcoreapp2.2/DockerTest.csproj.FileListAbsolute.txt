@@ -5,7 +5,6 @@ C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\Doc
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.pdb
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.Views.dll
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\bin\Debug\netcoreapp2.2\DockerTest.Views.pdb
-C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csprojAssemblyReference.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.csproj.CoreCompileInputs.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.RazorAssemblyInfo.cache
 C:\Users\Yaroslav\source\repos\DockerTest\DockerTest\obj\Debug\netcoreapp2.2\DockerTest.RazorAssemblyInfo.cs
